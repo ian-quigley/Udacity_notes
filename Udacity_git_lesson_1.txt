@@ -1,0 +1,18 @@
+## These are some notes for the Udacity git/version control course.
+## They want us to write crap down. Shrug.
+
+## Lesson 1
+
+## $diff -u brought out some differences between two files. The diff output is a little weird to parse but that's probably because I don't look at it often.
+
+## It shows '+' or '-' to denote differences between the files compared, e.g.
+
+	- some stuff that was in the first file but not the second
+	+ vice-versa
+
+## It'll do this for even a snp or something, the whole old line is marked as gone a new line added with a single change.
+
+## Having multiple versions will probably help playing with different bits of various programs in the future.
+
+## Manual commits vs autosave, they try to say manual is better. Probly is!
+
