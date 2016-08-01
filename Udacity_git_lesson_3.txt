@@ -1,1 +1,3 @@
 More notes, these are for the third lesson. I don't like their term "reflections".
+
+Their question: "When would you want to use a remote repository rather than keeping all your work local?"
