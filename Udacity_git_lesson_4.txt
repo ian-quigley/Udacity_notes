@@ -1,0 +1,4 @@
+# Fork when it's somebody else's.
+# Branch when your'e playing with new features
+# Clone when you're working from a new environment (e.g. new pewter)
+
